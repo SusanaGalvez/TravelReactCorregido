@@ -1,0 +1,15 @@
+.contAllUsers{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.userCards{
+    display: flex;
+    height: 25vh;
+    border: 1px black solid;
+    margin: 15px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.photo{width: auto;}
